@@ -5,6 +5,8 @@ a simple Python project based on NLP techniques
 Text Summarization with NLTK
 *(NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP tasks
 
+*Note: I've exported this Jupyter Notebook as pdf in case you may not Jupyter installed or not use Visual Stuido Code. In the repo, you can check the pdf version for convenience.*
+
 # Requirements
 
  Install these as requirements if you need. You may also try "pip3 install beautifulsoup4" if "pip" encounters errors.
