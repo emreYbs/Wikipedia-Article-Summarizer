@@ -8,7 +8,7 @@
 import bs4 as bs
 import urllib.request
 import re
-import pyfiglet
+import pyfiglet # Not necessary if you don't need terminal decoration:)
 
 # Normally, in Jupyter Notebooks, you may prefer to give a fixed URL, change the URL when you need it
 # and not ask for user input.But I wanted to see which articles, 
