@@ -7,6 +7,15 @@ Text Summarization with NLTK
 
 *Note: I've exported this Jupyter Notebook as pdf in case you may not Jupyter installed or not use Visual Stuido Code. In the repo, you can check the pdf version for convenience.*
 
+
+![image](https://user-images.githubusercontent.com/59505246/137485419-7530cd8e-8ce2-46e6-945b-29f84614b2d2.png)
+
+
+![image](https://user-images.githubusercontent.com/59505246/137485619-b5330b5d-2450-400a-bc1a-a6d817508ed7.png)
+
+
+![image](https://user-images.githubusercontent.com/59505246/137485727-454cb2d9-af82-45a1-9d39-892fa2a26d6e.png)
+
 # Requirements
 
  Install these as requirements if you need. You may also try "pip3 install beautifulsoup4" if "pip" encounters errors.
