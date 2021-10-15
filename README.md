@@ -11,6 +11,8 @@ A simple Python project based on NLP techniques: You provide a Wikipedia Article
 
 1. The python code will ask you to provide the URL address of the Wikipedia Article, *-in English Articles-* </br>
                         *Which Wikipedia article would you want me to summarize? : (URL)*
+                        
+                        *Provide the Wikipedia URL like this: ( https://    )*
 
 2. The article you have provided will be summarized via Natural Language Processing techniques.
 
@@ -23,9 +25,10 @@ https://en.wikipedia.org/wiki/Sufism  (This article is longer and the longer the
 
 Try with many different Wikipedia Articles in English to test the code. For now, I am happy and improving the code and making it more complex is beyond my current skills:), but you are free to fork and improve it.
 
+
+![image](https://user-images.githubusercontent.com/59505246/137502335-5b2096b0-05c1-44f5-a341-afdf5ed23868.png)
+
 ![image](https://user-images.githubusercontent.com/59505246/137500999-d8215f8d-ee93-4b30-830e-f017f2d2219b.png)
-
-
 
 
 ![image](https://user-images.githubusercontent.com/59505246/137485419-7530cd8e-8ce2-46e6-945b-29f84614b2d2.png)
@@ -56,11 +59,13 @@ userLink = input("Which Wikipedia article would you want me to summarize: ")  #w
 
 #If you prefer a fixed URL in the code or if you encounter an error in Jupyter, then you can also change the code with a pre-given URL and change accordingly later in Jupyter Notebook.
 
-*Example:*<br /> 
+**Example:**<br /> 
 raw_data = urllib.request.urlopen('https://en.wikipedia.org/wiki/F-Secure')  (*with a pre-given Wikipedia URL*) <br /> 
 document = raw_data.read()
 
 *Since I like F-Secure and wishing to attend their trainings, I search for them and wrote this this simple Wikipedia Article summarizer to practise NLP and Python, meanwhile learning more about F-Secure, its history, culture, etc.*
 
+![image](https://user-images.githubusercontent.com/59505246/137503439-45135716-7b14-4d0f-9972-c37abc59cf4d.png)
 
-*Provide the Wikipedia URL like this: ( https://    )*
+
+
