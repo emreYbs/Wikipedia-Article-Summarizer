@@ -39,7 +39,7 @@ Try with many different Wikipedia Articles in English to test the code. For now,
 
 ![image](https://user-images.githubusercontent.com/59505246/137485727-454cb2d9-af82-45a1-9d39-892fa2a26d6e.png)
 
-# Requirements
+ **Requirements**
 
  Install these as requirements if you need. You may also try "pip3 install beautifulsoup4" if "pip" encounters errors.
  
