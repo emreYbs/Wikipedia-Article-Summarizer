@@ -18,7 +18,7 @@ A simple Python project based on NLP techniques: You provide a Wikipedia Article
 
 **Note:** I use my bash scripts and provide some Wikipedia article links and get short summarization of the links I gave. Time-saving for a student or who reads articles a lot in Wikipedia.
 
-**EXAMPLE URL:** I have given a short article, but if you provide a long article, the will perform better. Since I wanted to add some screenshots, I kept it short. https://en.wikipedia.org/wiki/Aalto_University_School_of_Science_and_Technology
+**EXAMPLE URL:** I have given a short article, but if you provide a long article, the code will perform better. Since I wanted to add some screenshots, I kept it short. https://en.wikipedia.org/wiki/Aalto_University_School_of_Science_and_Technology
 
 https://en.wikipedia.org/wiki/F-Secure  (You can see the code in action with Short Articles)</br>
 https://en.wikipedia.org/wiki/Sufism  (This article is longer and the longer the better, well, generally, for the summary:)
