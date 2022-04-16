@@ -14,11 +14,9 @@ import pyfiglet # Not necessary if you don't need terminal decoration:)
 # and not ask for user input.But I wanted to see which articles, 
 # I can get a better summary and when the NLTK does "so so":)
 
-  
 welcome = pyfiglet.figlet_format("Wikipedia Article Summarizer", font = "standard" )
 farewell = pyfiglet.figlet_format("Wiki", font = "doh" )
 print(welcome,sep="\n\n")
-
 
 userLink = input("Which Wikipedia article would you want me to summarize: ")
 # Provide the Wikipedia URL like this: https://
