@@ -1,9 +1,9 @@
 #!/bin/bash
+# https://github.com/emreYbs, 3.10.2021
+
 # Install these as requirements if you need. You may also try "pip3 install beautifulsoup4" if "pip" encounters errors.
 # $ pip install beautifulsoup4
 # $ pip install lxml
-
-# https://github.com/emreYbs, 3.10.2021
 
 import bs4 as bs
 import urllib.request
