@@ -1,4 +1,5 @@
-# Wikipedia-Article-Summarizer (Text Summarization with NLTK )
+# Wikipedia-Article-Summarizer
+# **(_Text Summarization with NLTK_ )** #
 
 A simple Python project based on NLP techniques: You provide a Wikipedia Article and later get the summary.
 
