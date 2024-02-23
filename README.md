@@ -1,7 +1,7 @@
 # Wikipedia-Article-Summarizer  🧡
 # **(_Text Summarization with NLTK_ )** #
 
-A simple Python project based on NLP techniques: You provide a Wikipedia Article and later get the summary.
+### A simple Python project based on NLP techniques: You provide a Wikipedia Article and later get the summary.
 
 
 ![image](https://user-images.githubusercontent.com/59505246/137501279-73ddf768-ff57-407b-853b-b6acd0422907.png)
@@ -40,9 +40,9 @@ Try with many different Wikipedia Articles in English to test the code. For now,
 
 ![image](https://user-images.githubusercontent.com/59505246/137485727-454cb2d9-af82-45a1-9d39-892fa2a26d6e.png)
 
- **Requirements**
+ # **Requirements**
 
- Install these as requirements if you need. You may also try "pip3 install beautifulsoup4" if "pip" encounters errors.
+ Install these as requirements if you need. You may also try **"pip3 install beautifulsoup4"** if _"pip"_ encounters errors.
  
   pip install beautifulsoup4 <br /> 
   pip install lxml <br /> 
@@ -58,7 +58,7 @@ articles I can get a better summary and when the NLTK does "so so":)** *That's w
 userLink = input("Which Wikipedia article would you want me to summarize: ")  #with user input version, a bit more flexible
 
 
-#If you prefer a fixed URL in the code or if you encounter an error in Jupyter, then you can also change the code with a pre-given URL and change accordingly later in Jupyter Notebook.
+### If you prefer a fixed URL in the code or if you encounter an error in Jupyter, then you can also change the code with a pre-given URL and change accordingly later in Jupyter Notebook.
 
 **Example:**<br /> 
 raw_data = urllib.request.urlopen('https://en.wikipedia.org/wiki/F-Secure')  (*with a pre-given Wikipedia URL*) <br /> 
