@@ -2,6 +2,8 @@
 #emreYbs
 # -*- coding: utf-8 -*-
 # Wikipedia Article Summarizer(Wikipedia Article Summarizer.py) v.0.02
+# This script uses NLTK library. The Natural Language Toolkit (NLTK) is a Python package for natural language processing.
+# For further info, visit https://www.nltk.org/ and https://github.com/nltk/nltk
 
 import urllib.request
 import pip
@@ -9,7 +11,7 @@ import bs4 as bs
 import lxml
 import re
 import heapq
-import nltk
+import nltk  # pip install nltk
 pip.main(['install', 'pyfiglet'])
 import pyfiglet
 import re
